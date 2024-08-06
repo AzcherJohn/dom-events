@@ -204,4 +204,14 @@ main {
   font-size: 18px;
   font-weight: 600;
   padding: 20px 50px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px 0;
+  border-top: 2px solid #333;
+}
+footer article {
+  font-size: 20px;
 }/*# sourceMappingURL=styles.css.map */
